@@ -9,4 +9,4 @@ print(num)
 a = num.count(45)
 print(a)
 
-print(len(a))
+print(len(num))

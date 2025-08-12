@@ -5,4 +5,6 @@ b = 24.2
 print(int(b))
 
 c = input("enter anything: ")
-print(type(c))
+print(type(c)) 
+
+
