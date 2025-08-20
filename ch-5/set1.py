@@ -9,7 +9,7 @@ s.add(80)
 print(s)
 
 print(len(s))
-
+                        
 #remove
 s.remove(80)
 print(s)

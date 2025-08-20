@@ -16,4 +16,3 @@ print(d1.values())
 
 # specific 
 print("First:", d1["Pushtak"])
-
